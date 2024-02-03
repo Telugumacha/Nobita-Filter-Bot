@@ -5,7 +5,7 @@ class script(object):
 ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
 ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
 
-💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/MovieVillaYT'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
+💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Telugu_machaa'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
 """
 
     HELP_TXT = """
@@ -30,7 +30,7 @@ class script(object):
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ.  ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ᴏʀ ʙʏ ᴀɴʏ ᴍᴇᴀɴꜱ, ꜱʜᴀʀᴇ, ᴏʀ ᴄᴏɴꜱᴜᴍᴇ, ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ.
 
-<b><a href=https://telegram.me/NobiDeveloper>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @MovieVillaYT</a></b>
+<b><a href=https://telegram.me/Telugu_machaa>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @Telugu_machaa</a></b>
 """
 
     MANUELFILTER_TXT = """
@@ -64,14 +64,10 @@ class script(object):
 
 <b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
 
-💵 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
-💸 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗮𝘆𝘁𝗺</a>
-💶 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
+💵 <a href='https://telegra.ph/file/549542db2a78e7b8fd07e.jpg'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
+💸 <a href='https://telegra.ph/file/2452376bc1a26649917fc.jpg'>𝗣𝗮𝘆𝘁𝗺</a>
+💶 <a href='https://telegra.ph/file/4424c4c9d2186290513e0.jpg'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
 
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
-
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a></b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -178,7 +174,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://telegram.me/NobiDeveloperr>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://telegram.me/Telugu_machaa>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -198,13 +194,13 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「 <a href='https://telegram.me/NobiDeveloper'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>──────「 <a href='https://telegram.me/Telugu_machaa'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 𝟹𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnshort.net/ref/devilofficial'>ᴛɴʟɪɴᴋ</a> ᴏʀ <a href='https://onepagelink.in/ref/Nobita'>ᴏɴᴇᴘᴀɢᴇʟɪɴᴋ</a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='http://moneycase.link'>ᴛɴʟɪɴᴋ</a> ᴏʀ <a href='https://onepagelink.in/ref/Nobita'>ᴏɴᴇᴘᴀɢᴇʟɪɴᴋ</a>. [ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
 ›› sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://telegram.me/NobiDeveloper/1063'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a>.
 
@@ -233,7 +229,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
-❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @NobiDeveloper
+❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Telugu_machaa
 """
 
     NORSLTS = """
@@ -244,14 +240,14 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-[{file_name}](https://telegram.me/NobiDeveloper)
+[{file_name}](https://telegram.me/Telugu_machaa)
 
 <b>•────•────────•────•
-📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/AllRequestGroups)
-🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/MovieVillaYT)
+📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/telugu_macha_group)
+🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/Telugu_machaa)
 •────•────────•────•
 
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ](https://youtube.com/@NobiDeveloper)</b>"""
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [Telugu_machaa](https://telegram.me/Telugu_machaa)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>{title}</b>
