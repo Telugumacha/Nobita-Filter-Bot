@@ -1,5 +1,4 @@
 if [ -z $UPSTREAM_REPO ]
-then
   echo "Cloning main Repository"
   git clone https://github.com/NobiDeveloper/Nobita-Filter-Bot/tree/main.git /Nobita-Filter-Bot
 else
